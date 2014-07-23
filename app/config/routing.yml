@@ -1,0 +1,5 @@
+eliecer_app:
+    resource: "@EliecerAppBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
